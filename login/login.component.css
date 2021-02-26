@@ -1,0 +1,24 @@
+.form-group{
+    max-width: 70px;
+    margin: -120px 0px;
+    padding: 10px 60px;
+    border-color:thin;
+    font-family: Verdana,'Segoe UI';
+    font-size:15px;
+}
+
+.btn{
+    background-color: rgb(30, 212, 106);
+    border-color:white;
+    color:black;
+    display: table-cell;
+    padding: 10px 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 140px;
+    margin: 140px 130px;
+
+}
+.align{
+    max-width: 400px;
+    margin: 200px 500px;
+}

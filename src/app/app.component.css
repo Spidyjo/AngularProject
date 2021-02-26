@@ -1,0 +1,12 @@
+.h1{
+    color:red;
+}
+.demo2 {
+    background-color: rgb(30, 212, 106);
+    border-color:white;
+    color: white;
+    display: table-cell;
+    padding: 10px 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 140px;
+}
